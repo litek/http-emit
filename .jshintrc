@@ -1,0 +1,12 @@
+{
+  "node": true,
+  "esnext": true,
+  "expr": true,
+  "globalstrict": true,
+  "globals": {
+    "describe": false,
+    "before": false,
+    "beforeEach": false,
+    "it": false
+  }
+}
